@@ -1,6 +1,6 @@
 # journal
 
-### 5/24 (30 min)
+### 5/24 (90 min)
 - i started this project a while back
 - the idea is to create a smart pill organizer
 - lots of seniors die due to improper medication
@@ -12,3 +12,32 @@
 
 - ill research some dimensions
 - ok did some more research on the problem
+- ill start with CAD because I need to visualize the exact design
+- The EllieGrid dimensions in millimeters are approximately 197 mm × 108 mm × 32 mm. (thing below)
+
+<img width="524" height="551" alt="image" src="https://github.com/user-attachments/assets/5476010a-f3b3-4874-846e-7bcf200eb520" />
+
+- used Claude to calculate dimensions
+
+<img width="757" height="144" alt="image" src="https://github.com/user-attachments/assets/f1977ccd-3310-4a33-85b7-d4a314afe62e" />
+<img width="1028" height="676" alt="image" src="https://github.com/user-attachments/assets/ea2d911d-0123-449d-beb1-8e3db41ac840" />
+
+- looks pretty decent!
+- ok i made the general design
+
+<img width="710" height="466" alt="image" src="https://github.com/user-attachments/assets/c629c70e-e828-4123-a21b-babe488e905a" />
+<img width="460" height="345" alt="image" src="https://github.com/user-attachments/assets/e4f93abf-4512-457f-b1f1-94e40801946e" />
+
+- renders are sooooo awesome
+- going to watch https://www.youtube.com/watch?v=kKsVUTRPM3k to learn more
+- built a lid!
+
+<img width="1187" height="631" alt="image" src="https://github.com/user-attachments/assets/e3829367-802c-44f7-bad6-6bd978c0d9dd" />
+
+- added the cutout
+
+<img width="196" height="123" alt="image" src="https://github.com/user-attachments/assets/f35e7f90-fb8f-4a79-984e-3877e50eefe6" />
+
+- seems like printing PETG/PLA is not food-safe so i'll need containers
+- might redesign the case to add the containers
+- but that shouldn't be a problem for v1 of this
