@@ -41,3 +41,39 @@
 - seems like printing PETG/PLA is not food-safe so i'll need containers
 - might redesign the case to add the containers
 - but that shouldn't be a problem for v1 of this
+
+### 6/6 (started 4:30)
+- going to work on PCB now!
+- seems like some of the footprints got corrupted
+- will fix!
+
+<img width="175" height="282" alt="image" src="https://github.com/user-attachments/assets/59f5a634-67b5-4229-afa4-2e73cd114753" />
+
+- fixed!
+- calculated these values:
+
+Top row (y = 28):
+(26.13, 28)
+(74.38, 28)
+(122.63, 28)
+(170.88, 28)
+
+Bottom row (y = 80):
+(34.17, 80)
+(98.50, 80)
+(162.83, 80)
+
+- these took a while lol
+- did not think id use mean function this much back when i was in like 4th grade
+
+<img width="789" height="381" alt="image" src="https://github.com/user-attachments/assets/62701cad-b85f-4988-bf6a-189f2ae4c4af" />
+
+- looks pretty good
+
+<img width="224" height="172" alt="image" src="https://github.com/user-attachments/assets/487a1f45-853c-40db-8c3b-0b41a12a037b" />
+
+- added 3d model of Xiao!
+
+<img width="757" height="367" alt="image" src="https://github.com/user-attachments/assets/4a485e3f-2b7e-4fea-a3ed-79bddd85f46a" />
+
+- routing done!
