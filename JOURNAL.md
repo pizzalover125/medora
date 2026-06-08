@@ -77,3 +77,22 @@ Bottom row (y = 80):
 <img width="757" height="367" alt="image" src="https://github.com/user-attachments/assets/4a485e3f-2b7e-4fea-a3ed-79bddd85f46a" />
 
 - routing done!
+
+### 6/7: 1hr
+- ok first things first imma add mounting holes
+
+<img width="708" height="342" alt="image" src="https://github.com/user-attachments/assets/852bcfdc-7fb4-44ea-bb52-2f475dd988ef" />
+
+- voila!
+- before i modify the CAD, i want to create a quick BOM
+- ok its $31.18 for the parts at a quantity of 5
+- 5 PCBs comes out to 26.65 at quantity of 5
+- ok 11.56 / PCB + CAD costs
+- SEEED Studio kinda broken rn but
+- so hopefully under ~$20!
+- thats great to hear
+- time to start up CAD!
+
+<img width="778" height="585" alt="image" src="https://github.com/user-attachments/assets/221da533-639b-4f9c-bed6-910730446704" />
+
+- super quick iteration!
