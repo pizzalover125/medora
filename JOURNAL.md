@@ -96,3 +96,56 @@ Bottom row (y = 80):
 <img width="778" height="585" alt="image" src="https://github.com/user-attachments/assets/221da533-639b-4f9c-bed6-910730446704" />
 
 - super quick iteration!
+
+### 6/19 (2 hours)
+- okay haven't worked on this in a hot minute
+- have been working on other projects
+- time to lock in for this!
+- first thing: delete m2 holes and add m3
+- bruh i have to reroute because i have to move microcontroller down
+
+<img width="836" height="111" alt="image" src="https://github.com/user-attachments/assets/6bc2b674-2936-4664-9ba3-fd1921aa5cc0" />
+
+- asked that question in Slack to make sure
+
+<img width="815" height="384" alt="image" src="https://github.com/user-attachments/assets/1fbab844-2351-4123-a742-864c1a2e21a7" />
+
+- going to do what alex recommended and just work with a rough sketch in CAD of the PCB
+- i think ill make it battery powered cause it shouldnt be too hard to?
+- i could just easily wire up a lipo to the thing
+
+<img width="1242" height="456" alt="image" src="https://github.com/user-attachments/assets/70b1a30f-e366-4f37-a09b-6ac31a8bac24" />
+
+- redesigned it
+- going to look up what mates are
+- added screws
+- watching https://www.youtube.com/watch?v=0hI57MksVyk
+
+<img width="1489" height="683" alt="image" src="https://github.com/user-attachments/assets/b0875dbd-b353-436e-947d-d3f5fe479de3" />
+
+- works pretty well!
+
+<img width="125" height="154" alt="image" src="https://github.com/user-attachments/assets/7785ebc3-4d4d-4a93-aaff-c00b341638a2" />
+
+- added USB-C hole
+
+<img width="1292" height="604" alt="image" src="https://github.com/user-attachments/assets/ec8aac60-5991-4aff-9ab9-6ba52d3b54e7" />
+
+- added mounting holes for top
+- i have to make this less thick some way
+- going to add holes for LEDs
+
+<img width="819" height="621" alt="image" src="https://github.com/user-attachments/assets/80fbf9a1-f07b-469d-bb1f-91ded448ff24" />
+
+- added the holes!
+
+<img width="411" height="518" alt="image" src="https://github.com/user-attachments/assets/42d0c2d1-63c8-4437-b66b-f83b40d8a0b5" />
+
+- added display hole
+- realized actual display isn't even centered
+
+<img width="250" height="310" alt="image" src="https://github.com/user-attachments/assets/b99252dd-8881-47d2-b06d-8abc4c0385a5" />
+
+- ok im going to add an actuall border cause i'm using exact dimensions
+
+<img width="856" height="446" alt="image" src="https://github.com/user-attachments/assets/b00939cb-bb04-435b-8aea-f9c9b04c71c9" />
