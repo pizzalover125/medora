@@ -149,3 +149,61 @@ Bottom row (y = 80):
 - ok im going to add an actuall border cause i'm using exact dimensions
 
 <img width="856" height="446" alt="image" src="https://github.com/user-attachments/assets/b00939cb-bb04-435b-8aea-f9c9b04c71c9" />
+
+### 6/20: 2 hours
+- i had this idea
+- what if I made a full ecosystem of products that all communicate with one another using ESPNOW
+- Smart pill organizer, sensor that detects if you leave your bed, etc
+- will start with this
+
+<img width="850" height="201" alt="image" src="https://github.com/user-attachments/assets/68aa143f-55e6-4b2d-a0a1-78013a891b9f" />
+
+- made it thinner
+
+<img width="965" height="566" alt="image" src="https://github.com/user-attachments/assets/0a37c567-622f-490f-9e49-10070f0b4e0e" />
+
+- made the border thicker
+- it looks like a small change but I had to literally edit every single dimension
+
+<img width="818" height="593" alt="image" src="https://github.com/user-attachments/assets/465aa426-a0f1-4006-adf4-70a1da1917a4" />
+
+- fastened the bolts
+
+<img width="320" height="300" alt="image" src="https://github.com/user-attachments/assets/a5c3f40b-64cd-46a4-9303-3c7013ac3c86" />
+
+- redid the usb-c cutout
+
+<img width="1604" height="414" alt="image" src="https://github.com/user-attachments/assets/1b02148e-5001-4b78-9272-2cb8541f2edd" />
+
+- i want to remove that pesky cutout
+- this looks like my video: https://www.youtube.com/watch?v=PiJp0BrjR3Q
+- im actually learning so many CAD skills
+
+<img width="470" height="259" alt="image" src="https://github.com/user-attachments/assets/8fb686df-151e-4ec5-ad6d-22f86c96bf60" />
+
+- noice
+
+<img width="980" height="599" alt="image" src="https://github.com/user-attachments/assets/c9687e2c-19b2-4ed6-a193-990274f106e0" />
+
+- looking back, i dont really need the OLED and buttons
+- I'm going to be designing an app for this
+- ok time to edit the PCB
+- also my PCB was large for literally no reason
+
+<img width="895" height="406" alt="image" src="https://github.com/user-attachments/assets/dddaa421-9f47-4677-a11d-d922cfb2dcd7" />
+
+- okay made it a lot smaller and better
+- need silkscreen art tho
+- need a logo
+
+<img width="1059" height="454" alt="image" src="https://github.com/user-attachments/assets/97ed3c31-43bc-48c8-a9fc-7a56845fb581" />
+
+- im thinking about adding a battery
+- it would be pretty cool, ngl
+- ESP32-c3 has built-in
+- made it a lot smaller
+
+<img width="754" height="429" alt="image" src="https://github.com/user-attachments/assets/956d0919-43ad-45da-924f-e31baae8223b" />
+<img width="778" height="391" alt="image" src="https://github.com/user-attachments/assets/725eb2aa-ed1a-4822-8518-dc51ddfd1ac7" />
+
+- looks a lot better ngl
