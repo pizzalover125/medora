@@ -207,3 +207,24 @@ Bottom row (y = 80):
 <img width="778" height="391" alt="image" src="https://github.com/user-attachments/assets/725eb2aa-ed1a-4822-8518-dc51ddfd1ac7" />
 
 - looks a lot better ngl
+
+### 6/22: started 11
+- going to start with CAD now
+- wait im going to move the resistors to the other side
+
+<img width="408" height="181" alt="image" src="https://github.com/user-attachments/assets/3237bc12-b670-4f16-a69d-9ca0ebb3e5c3" />
+
+- flipped! noice
+- will export 3d model
+
+<img width="1297" height="186" alt="image" src="https://github.com/user-attachments/assets/01e55f26-e30a-4981-b932-17f3f41fed2a" />
+
+- ok im going to flip the MCU and move the LEDs down
+
+<img width="831" height="441" alt="image" src="https://github.com/user-attachments/assets/16e6a9b3-86e4-4e0d-bac1-1cdb998b3c6e" />
+
+- voila!
+
+<img width="1145" height="465" alt="image" src="https://github.com/user-attachments/assets/b6d81372-c134-4501-a0da-e2aa51c21288" />
+
+- designing with tolerances is soooo hard
