@@ -208,7 +208,7 @@ Bottom row (y = 80):
 
 - looks a lot better ngl
 
-### 6/22: started 11
+### 6/22: 1 hour
 - going to start with CAD now
 - wait im going to move the resistors to the other side
 
