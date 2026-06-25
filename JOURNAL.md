@@ -228,3 +228,26 @@ Bottom row (y = 80):
 <img width="1145" height="465" alt="image" src="https://github.com/user-attachments/assets/b6d81372-c134-4501-a0da-e2aa51c21288" />
 
 - designing with tolerances is soooo hard
+
+### 6/23: 1 hour
+- ok ill come back to this
+- lets design the case
+- idk if I even need a PCB
+- it makes it a lot cleaner tho
+- im just going to restart it cause i messed something up
+
+<img width="701" height="350" alt="image" src="https://github.com/user-attachments/assets/91043cc0-3249-415a-a436-c183716af652" />
+
+- took way longer than it should have
+
+<img width="253" height="189" alt="image" src="https://github.com/user-attachments/assets/059cc6d1-1701-46b1-800b-730449b7e521" />
+
+- fixed this resistor i misplaced
+
+<img width="714" height="303" alt="image" src="https://github.com/user-attachments/assets/45418be6-52d7-4513-8744-ecf57580dcc1" />
+
+- thinned it down
+
+<img width="1034" height="459" alt="image" src="https://github.com/user-attachments/assets/26095e89-1726-4abd-8a03-42a0cf810818" />
+
+- added holes... time to make the top!
