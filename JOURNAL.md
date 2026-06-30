@@ -251,3 +251,17 @@ Bottom row (y = 80):
 <img width="1034" height="459" alt="image" src="https://github.com/user-attachments/assets/26095e89-1726-4abd-8a03-42a0cf810818" />
 
 - added holes... time to make the top!
+
+### 6/29: 30 min
+- going to make top holes now
+
+<img width="610" height="384" alt="image" src="https://github.com/user-attachments/assets/f17bc530-7aab-412e-9bfd-3ebc8ee37267" />
+
+- done
+
+<img width="1075" height="640" alt="image" src="https://github.com/user-attachments/assets/98e9da06-f9c7-4633-b26a-f10ce8d0761e" />
+
+- need to make it better
+- ok i think ill need to hotplate this because its too thick
+- going to use neopixels cause they are better and I could make this sleeker
+- im going to use WS2812B
