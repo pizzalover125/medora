@@ -265,3 +265,54 @@ Bottom row (y = 80):
 - ok i think ill need to hotplate this because its too thick
 - going to use neopixels cause they are better and I could make this sleeker
 - im going to use WS2812B
+
+### 7/03: 1.5 hrs
+- going to redesign schematic with neopixels
+
+<img width="1229" height="278" alt="image" src="https://github.com/user-attachments/assets/fe4379b8-1588-432c-821e-68b11679b089" />
+
+- ok i dont think i need to model it exactly like the other thing
+- planning to do 8 containers with a CAD of 200 x 100 mm
+
+<img width="748" height="417" alt="image" src="https://github.com/user-attachments/assets/d6a16757-cdca-4a05-a4cb-ec67bbaba368" />
+
+- thats what claude came up with
+
+<img width="971" height="352" alt="image" src="https://github.com/user-attachments/assets/23ae08b9-eb00-4459-ba0a-06fe713ce536" />
+
+- pretty nice
+
+<img width="408" height="169" alt="image" src="https://github.com/user-attachments/assets/ab2ee498-e9cc-49d5-aeec-87bbbbc3827d" />
+
+- added mounting holes; took wayyy longer than expected
+
+<img width="646" height="269" alt="image" src="https://github.com/user-attachments/assets/4c7f791d-3439-4d17-9a38-eac9bdf2a517" />
+
+- noice
+
+<img width="1104" height="506" alt="image" src="https://github.com/user-attachments/assets/2b98c92b-e748-41a9-929b-acc2b34924c6" />
+
+- 3d view looks pretty clean, ngl
+- i will create case now
+- lets start afresh
+
+<img width="930" height="631" alt="image" src="https://github.com/user-attachments/assets/2c878d3e-4b3e-40df-8a57-d4d51878b6de" />
+
+- just realized it wouldn't work because the USB-C is too far away
+
+<img width="554" height="285" alt="image" src="https://github.com/user-attachments/assets/145d84f3-ab3f-4d06-9e00-79f7a9bf83cf" />
+
+- redesigned it to be 198.5 mm wide so its easy to plug in
+
+<img width="730" height="402" alt="image" src="https://github.com/user-attachments/assets/a31eb169-6008-4de5-9547-d79096f0a3bc" />
+
+- made it 195 x 95 cause it looks too thin in CAD
+
+<img width="1056" height="570" alt="image" src="https://github.com/user-attachments/assets/1227cebc-6577-4868-a2a0-b1a8761b6a65" />
+
+- still kinda thin, ngl
+- going to make it even smaller PCB
+
+<img width="616" height="328" alt="image" src="https://github.com/user-attachments/assets/89960083-362f-43ee-8913-024aa290628a" />
+
+- 190 x 100 now!
