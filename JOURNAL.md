@@ -316,3 +316,46 @@ Bottom row (y = 80):
 <img width="616" height="328" alt="image" src="https://github.com/user-attachments/assets/89960083-362f-43ee-8913-024aa290628a" />
 
 - 190 x 100 now!
+
+<img width="487" height="281" alt="image" src="https://github.com/user-attachments/assets/8da234c3-ea35-4f64-8681-40b1127a4fe7" />
+
+- hanging over the edge
+
+<img width="967" height="514" alt="image" src="https://github.com/user-attachments/assets/c1374171-92d2-4dbc-a1fb-d27fb00a565f" />
+
+- it was also mis-centered
+- fixed that as well
+
+<img width="388" height="252" alt="image" src="https://github.com/user-attachments/assets/e0da22b6-af9d-4030-a799-ad44f8c59c7b" />
+
+- nvm not centered
+
+<img width="1126" height="579" alt="image" src="https://github.com/user-attachments/assets/93822156-bf1b-44fd-98be-67b4648771eb" />
+
+- voila!
+- will design lid to lid
+
+<img width="989" height="635" alt="image" src="https://github.com/user-attachments/assets/c0d439b6-af92-4c78-9f51-cfe2f3bdfbe6" />
+
+- looks like an ominous box
+- im going to flip the MCU so it is thinner
+
+<img width="423" height="419" alt="image" src="https://github.com/user-attachments/assets/435747bb-77e7-4690-88b3-b7d65e698125" />
+
+- fixed!
+
+<img width="813" height="344" alt="image" src="https://github.com/user-attachments/assets/dbe85b16-97e6-44ee-ae52-464fe39996e6" />
+
+- made top part thinner where LEDs will be so it shines brighter
+
+<img width="986" height="567" alt="image" src="https://github.com/user-attachments/assets/e7f25334-d19e-4acc-8e25-d69612b8a18f" />
+
+- still looks like a box ngl
+
+<img width="926" height="618" alt="image" src="https://github.com/user-attachments/assets/2b1717bf-0122-488b-89ff-6cf12717fc65" />
+
+- duo-tone design
+
+<img width="701" height="518" alt="image" src="https://github.com/user-attachments/assets/872dc9db-0f7c-48fc-b297-ec39e6765b67" />
+
+- container!
