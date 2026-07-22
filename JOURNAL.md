@@ -359,3 +359,28 @@ Bottom row (y = 80):
 <img width="701" height="518" alt="image" src="https://github.com/user-attachments/assets/872dc9db-0f7c-48fc-b297-ec39e6765b67" />
 
 - container!
+
+### Jul 22 (1 hour)
+- ok its time to lock in
+- im submitting this to Congressional App Challenge
+
+<img width="609" height="462" alt="image" src="https://github.com/user-attachments/assets/3aa6c8ee-9f27-47a4-b572-4dbf52ff8a08" />
+
+- added slot
+- i want to add magnets
+- not enough space
+
+<img width="1016" height="527" alt="image" src="https://github.com/user-attachments/assets/483015db-8bd1-4587-9a94-0f2710b04954" />
+
+- i added the holes
+
+<img width="964" height="538" alt="image" src="https://github.com/user-attachments/assets/f06060fb-a8bf-45f3-a4e5-73a20115c591" />
+
+- added more holes
+
+<img width="837" height="551" alt="image" src="https://github.com/user-attachments/assets/291b7240-aa5c-4038-bc21-9fb73e8d9dd0" />
+
+- looks pretty ugly
+- im ready to submit almost
+- it looks really ugly
+- will fix later
