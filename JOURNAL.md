@@ -360,7 +360,7 @@ Bottom row (y = 80):
 
 - container!
 
-### Jul 22 (1 hour)
+### Jul 22 (2 hours)
 - ok its time to lock in
 - im submitting this to Congressional App Challenge
 
@@ -395,3 +395,4 @@ Bottom row (y = 80):
 - ok it comes out to around $25/unit
 - ill figure that out later
 - ok im going to set up repo for submission
+- prepared the repo!
