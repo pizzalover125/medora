@@ -384,3 +384,14 @@ Bottom row (y = 80):
 - im ready to submit almost
 - it looks really ugly
 - will fix later
+- im going to create a BOM rq
+
+<img width="1393" height="513" alt="image" src="https://github.com/user-attachments/assets/a19c332d-d94a-47b0-9eaa-ee3dd1f3a741" />
+<img width="416" height="279" alt="image" src="https://github.com/user-attachments/assets/bcd484d4-12fb-424f-b40b-014d4e653270" />
+<img width="484" height="463" alt="image" src="https://github.com/user-attachments/assets/39394bcb-e36a-4190-84c9-9d6484a43e41" />
+
+- this doesn't count hotplate
+- im going to figure out how much it would cost for 100
+- ok it comes out to around $25/unit
+- ill figure that out later
+- ok im going to set up repo for submission
