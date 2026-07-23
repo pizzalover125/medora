@@ -42,7 +42,7 @@
 - might redesign the case to add the containers
 - but that shouldn't be a problem for v1 of this
 
-### 6/6 (started 4:30)
+### 6/6 (1 hour)
 - going to work on PCB now!
 - seems like some of the footprints got corrupted
 - will fix!
