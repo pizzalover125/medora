@@ -12,7 +12,19 @@ In the status quo, there smart pill organizers are expensive costing an average 
 
 ### PCB
 
+The PCB was designed in KiCAD.
+
+<img width="1327" height="263" alt="image" src="https://github.com/user-attachments/assets/d55f67c9-0b52-4dbc-b15a-4ef5547be7c1" />
+<img width="672" height="327" alt="image" src="https://github.com/user-attachments/assets/5a103827-fa25-4d0c-a667-3cfcee39a3d0" />
+<img width="544" height="325" alt="image" src="https://github.com/user-attachments/assets/893dd5d4-2ead-48ac-bf52-f61fe978d189" />
+
 ### CAD
+
+The CAD was designed in Onshape. You can view the link here: https://cad.onshape.com/documents/c1d6b76cfe1063ae9996d35d/w/b74057f0558c55e37de9882a/e/dce7fc6940c214e434cc5424?renderMode=0&uiState=6a616dc37022e90ea2108f99. There are magnets that hold together the lid and the case. 
+
+<img width="595" height="513" alt="image" src="https://github.com/user-attachments/assets/60a44404-20b7-413a-8400-6fe3db22d747" />
+<img width="1061" height="558" alt="image" src="https://github.com/user-attachments/assets/d291c3cd-82fa-4f34-b5f1-d671aaff43d8" />
+<img width="609" height="490" alt="image" src="https://github.com/user-attachments/assets/821ff124-0c59-4dd7-9b43-0ef862123dba" />
 
 ### BOM 
 A detailed bill of materials can be viewed here: https://docs.google.com/spreadsheets/d/15uKd0en9vIonSRlWCDsz52HICyDAk6iSbPfcEML8UvA/edit?usp=sharing.
