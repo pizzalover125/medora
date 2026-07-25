@@ -396,3 +396,18 @@ Bottom row (y = 80):
 - ill figure that out later
 - ok im going to set up repo for submission
 - prepared the repo!
+
+### Jul 24
+- trying to make an exploded view
+
+<img width="461" height="597" alt="image" src="https://github.com/user-attachments/assets/4b1db837-0ecd-4fc3-98bb-7968583a4bbd" />
+
+- looks weird ngl
+
+<img width="132" height="116" alt="image" src="https://github.com/user-attachments/assets/8c1c65b4-ce95-481a-840d-17b570461cc5" />
+
+- modeled the magnet
+
+<img width="520" height="564" alt="image" src="https://github.com/user-attachments/assets/ed81d04b-a5d1-413a-bd29-9f54d8e3da88" />
+
+- looks good!
