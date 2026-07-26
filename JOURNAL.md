@@ -397,7 +397,7 @@ Bottom row (y = 80):
 - ok im going to set up repo for submission
 - prepared the repo!
 
-### Jul 24
+### Jul 24 (30 min)
 - trying to make an exploded view
 
 <img width="461" height="597" alt="image" src="https://github.com/user-attachments/assets/4b1db837-0ecd-4fc3-98bb-7968583a4bbd" />
@@ -411,3 +411,12 @@ Bottom row (y = 80):
 <img width="520" height="564" alt="image" src="https://github.com/user-attachments/assets/ed81d04b-a5d1-413a-bd29-9f54d8e3da88" />
 
 - looks good!
+
+### Jul 25 (40 min)
+- i want to render this cause why not
+- imported it into Fusion
+- there was some stuff wrong with it but i ended up fixing it
+- I asked Claude to help me
+- after struggles, i got this!
+
+<img width="783" height="538" alt="image" src="https://github.com/user-attachments/assets/40696a8b-1592-46ab-84df-122294cc472c" />
