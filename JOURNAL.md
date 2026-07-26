@@ -420,3 +420,25 @@ Bottom row (y = 80):
 - after struggles, i got this!
 
 <img width="783" height="538" alt="image" src="https://github.com/user-attachments/assets/40696a8b-1592-46ab-84df-122294cc472c" />
+
+### Jul 26
+- ok i realilze i have a problem
+
+<img width="173" height="269" alt="image" src="https://github.com/user-attachments/assets/cc8be6cb-4e28-4d7e-ae53-56fb67abcc10" />
+
+- i have to fix it
+
+<img width="1448" height="373" alt="image" src="https://github.com/user-attachments/assets/04911268-1f62-45f8-babd-0a34e7318322" />
+
+- ok that ended up fixing it
+- idk how im going to print this
+- cause supports wouldn't work... or would they
+- i asked in Slack hopefully someone responds
+
+- i downloaded the EllieGrid app to see how it works
+- i will use this for my app
+
+<img width="686" height="666" alt="image" src="https://github.com/user-attachments/assets/5d76382e-2a34-4ef1-b519-da0e420492e3" />
+
+- brainstormed what pages will be on the site
+- idk if i should journal this here
