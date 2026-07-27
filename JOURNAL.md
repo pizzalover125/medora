@@ -442,3 +442,12 @@ Bottom row (y = 80):
 
 - brainstormed what pages will be on the site
 - idk if i should journal this here
+
+### 7/27 (30 min)
+- PCBWay reached out to sponsor my hackathon
+- my hackathon was too close, so I said we could collaborate in the future
+- i also asked if they could sponsor this project
+- they said yes!
+- i just need to update PCB + repo
+- done!
+- will email now
