@@ -443,7 +443,7 @@ Bottom row (y = 80):
 - brainstormed what pages will be on the site
 - idk if i should journal this here
 
-### 7/27 (1.5 hrs)
+### 7/27 (2.5 hrs)
 - PCBWay reached out to sponsor my hackathon
 - my hackathon was too close, so I said we could collaborate in the future
 - i also asked if they could sponsor this project
@@ -479,3 +479,17 @@ handles: 18m32s, 7g
 
 - thats in total: 7h 25m, 316 g
 - i think ill need to add 1kg filament because i'll likely need to reprint stuff
+
+- apparently 1 screw isn't enough
+- ok i need to add 2 screws
+
+<img width="741" height="530" alt="image" src="https://github.com/user-attachments/assets/e74b18b2-970a-4e9b-a314-dea0143488ce" />
+
+- nice!
+- i added 3 screws cause why not
+- i might not use all of them; we'll see
+
+<img width="766" height="559" alt="image" src="https://github.com/user-attachments/assets/34a52b9b-66b6-4e90-9393-914f7e07b749" />
+
+- new cutout
+- also larger
