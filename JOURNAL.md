@@ -443,7 +443,7 @@ Bottom row (y = 80):
 - brainstormed what pages will be on the site
 - idk if i should journal this here
 
-### 7/27 (30 min)
+### 7/27 (1.5 hrs)
 - PCBWay reached out to sponsor my hackathon
 - my hackathon was too close, so I said we could collaborate in the future
 - i also asked if they could sponsor this project
@@ -451,3 +451,31 @@ Bottom row (y = 80):
 - i just need to update PCB + repo
 - done!
 - will email now
+
+- ok i need to fix 3d print also
+- right now, it's not printable
+- the handles and the rectangle on both sides is too big of an overhang
+- so ill split the handles
+
+<img width="1067" height="589" alt="image" src="https://github.com/user-attachments/assets/7c761294-561c-41ae-a4a7-605ab7f188c4" />
+
+- added holes
+
+<img width="290" height="191" alt="image" src="https://github.com/user-attachments/assets/0c276536-fa1b-41cb-97f7-e601de75b2ef" />
+
+- made the handle
+- used calipers IRL to gauge what dimensions i need
+
+<img width="750" height="558" alt="image" src="https://github.com/user-attachments/assets/b2044bd1-92e9-4180-8820-ea2d15073f83" />
+
+- noice!
+- will adjust the dimensions
+- ok im going to figure out how long ts will take to print
+
+container: 4h45m, 212g
+lid top: 49m14s, 33g
+lid bottom: 1h33m, 64g
+handles: 18m32s, 7g
+
+- thats in total: 7h 25m, 316 g
+- i think ill need to add 1kg filament because i'll likely need to reprint stuff
