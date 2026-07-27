@@ -15,8 +15,8 @@ In the status quo, there smart pill organizers are expensive costing an average 
 The PCB was designed in KiCAD.
 
 <img width="1327" height="263" alt="image" src="https://github.com/user-attachments/assets/d55f67c9-0b52-4dbc-b15a-4ef5547be7c1" />
-<img width="672" height="327" alt="image" src="https://github.com/user-attachments/assets/5a103827-fa25-4d0c-a667-3cfcee39a3d0" />
-<img width="544" height="325" alt="image" src="https://github.com/user-attachments/assets/893dd5d4-2ead-48ac-bf52-f61fe978d189" />
+<img width="866" height="423" alt="image" src="https://github.com/user-attachments/assets/ff4512f1-9926-4c13-b13b-70cec9a9396c" />
+<img width="639" height="385" alt="image" src="https://github.com/user-attachments/assets/378f7308-d80d-4265-91e1-f34ab34a695c" />
 
 ### CAD
 
@@ -31,3 +31,54 @@ A detailed bill of materials can be viewed here: https://docs.google.com/spreads
 
 ### Credits
 Big thanks to Hack Club for making this project possible!
+
+### Sponsorship
+
+This project's PCBs are sponsored by PCBWay, a leading manufacturer for PCB fabrication, assembly, 3D printing, and more.
+
+#### About PCBWay
+
+PCBWay offers PCB prototyping and manufacturing, PCB assembly, 3D printing, CNC machining, and other on-demand manufacturing services for makers, students, and engineers worldwide.
+
+#### Project Background
+
+This is a smart pill organizer — an 8-compartment device with LED indicators to help users track and remember their medication schedule. Building it required a custom PCB to house the microcontroller, LED drivers, and compartment sensors in a compact enclosure.
+
+#### Order Process
+
+1. **Download the Gerber files** from this repo.
+2. **Go to [PCBWay.com](https://www.pcbway.com)** and click **"Instant Quote"** on the homepage.
+3. **Upload the Gerber `.zip`** from this repo. PCBWay auto-detects your board dimensions, layer count, and other specs — verify these match: 190mm × 90mm, 2-layer.
+4. **Set your order specs:**
+   - Quantity (e.g. 5 or 10 boards)
+   - Board thickness (1.6mm)
+   - Copper weight (1oz standard)
+   - Surface finish (HASL or ENIG)
+   - Solder mask & silkscreen color
+5. **Review the quote** and confirm cost/production time.
+6. **Place the order** and confirm shipping address/method.
+7. **Track production** — PCBWay provides status updates through fabrication and a tracking number once shipped.
+
+#### Unboxing
+
+Will be updated once I receive the boards!
+
+#### Board Dimensions & Precision
+
+Board size: 190 mm × 90 mm
+Board thickness: 1.6 mm (standard)
+Copper layers: 2-layer
+Minimum trace width: 0.2 mm (KiCad default)
+Minimum clearance: 0.2 mm (KiCad default)
+Via diameter / drill: 0.6 mm / 0.3 mm (KiCad default)
+Surface finish: HASL
+
+#### End Application
+
+The board powers the pill organizer's control system — driving LED indicators for each of the 8 compartments and interfacing with the microcontroller to track dosage timing.
+
+#### Why PCBWay
+* Fast turnaround for prototyping
+* Reliable build quality at low cost for small-batch orders
+* Easy Gerber upload and ordering process
+* Good support for hobbyist and student projects
