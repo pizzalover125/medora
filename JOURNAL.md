@@ -532,3 +532,36 @@ handles: 18m32s, 7g
 - ill just use RGB leds
 - ok looks like i can't do THT
 - thats unfortunate
+
+### Jul 29
+- bruhhh this got deleted
+- ok ill rewrite
+- basically, i found a THT LED on KiCAD that Claude didn't know about
+
+<img width="1053" height="276" alt="image" src="https://github.com/user-attachments/assets/5c7300e8-7a15-4c7a-9c0d-89561bd77eda" />
+
+
+- i made the schematic
+- i tried to find the dimensions on Dollar Tree's website
+- i calculated the LED position with Claude
+- PCB:
+
+<img width="813" height="188" alt="image" src="https://github.com/user-attachments/assets/272eb210-8226-426d-8489-da35eda6ddb1" />
+
+- ok im making it a little bit longer
+
+<img width="929" height="196" alt="image" src="https://github.com/user-attachments/assets/d9543687-35f9-4578-9868-e99aad8f04bd" />
+
+- noice
+- im going to print ts out
+- ok i printed two pages out
+- the dimensions feel right
+- the LEDs feel centered
+- i cant be sure tho
+- so ig ill just go with it
+
+<img width="906" height="268" alt="image" src="https://github.com/user-attachments/assets/84453d55-492b-4533-8e56-3e98d3afd2f6" />
+
+- i had to update the library
+- it works!
+- time to start CAD
