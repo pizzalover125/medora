@@ -493,3 +493,42 @@ handles: 18m32s, 7g
 
 - new cutout
 - also larger
+
+### Jul 28 (2 hr)
+- i went to the dollar store today
+- i got a pill organizer
+- im going to make it smart!
+- $5 BOM
+- THT components so its easy to assemble
+
+- im starting with taking measurements
+- it took so long for some reason
+- but i got it done
+- ive never used calipers before
+- i always just use a GrabCAD model
+- i got calipers from OpenSauce
+- so ill just use those
+- i also needed to use rulers because calipers were too small
+- test print time!
+
+<img width="1019" height="406" alt="image" src="https://github.com/user-attachments/assets/3852eba7-584e-469b-a104-08f3a356bb52" />
+
+- it was originally bigger, but Raygen told me to make it 1mm tall
+- so i did that!
+- first is too tall but not wide enough
+- changed dimensions a little bit
+- hopefully it works this time
+- 2nd one didn't work
+- 3rd works but not ideal
+- 4th ones the charm
+- ok it works
+- could be a bit wider but im done with test prints
+- ok i need to figure out where to put LEDs
+- uhhh ill just work on KiCAD rn
+- this is going to require A LOT of prototyping
+- i've been trying to find a kicad model for so long
+- i do not want to make my own kicad model
+- looks like i cant use THT neopixels
+- ill just use RGB leds
+- ok looks like i can't do THT
+- thats unfortunate
