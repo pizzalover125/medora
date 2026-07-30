@@ -494,7 +494,7 @@ handles: 18m32s, 7g
 - new cutout
 - also larger
 
-### Jul 28 (2 hr)
+### Jul 28 (4 hr)
 - i went to the dollar store today
 - i got a pill organizer
 - im going to make it smart!
@@ -565,3 +565,23 @@ handles: 18m32s, 7g
 - i had to update the library
 - it works!
 - time to start CAD
+
+<img width="830" height="383" alt="image" src="https://github.com/user-attachments/assets/ffe15236-1d4b-44ab-89c5-e4cb995be55d" />
+
+- ok i was thinking to have two seperate panels
+- but im just going to have display under the thing
+- ok i dont want to work on CAD ngl
+- ill make a render of the PCB
+
+<img width="907" height="221" alt="image" src="https://github.com/user-attachments/assets/7d7bee8f-0ac2-4507-9cd0-aa6d05c19c36" />
+
+- made it!
+- its not the best or anything
+- but it looks cool
+
+<img width="1554" height="593" alt="blue" src="https://github.com/user-attachments/assets/57aac469-073d-43d7-9781-3ed03c80e936" />
+<img width="1554" height="593" alt="green" src="https://github.com/user-attachments/assets/97b7c5c6-a9bf-4d42-8e29-53c204ad51e9" />
+<img width="1554" height="593" alt="red" src="https://github.com/user-attachments/assets/d82b0fc7-e1a8-4789-bc7e-91a76cd7b729" />
+
+- ok lowk this was unneccesary cause ill prob change some stuff
+- but its still cool
