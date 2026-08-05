@@ -585,3 +585,15 @@ handles: 18m32s, 7g
 
 - ok lowk this was unneccesary cause ill prob change some stuff
 - but its still cool
+
+# august 4th (30 min)
+- ok what i did last time was kind of a waste
+- didn't really need that
+- lets work on the actual CAD
+
+<img width="611" height="468" alt="image" src="https://github.com/user-attachments/assets/0bc6a722-5fef-40c2-b480-75c38c4353ea" />
+
+- ok took me a bit to get here
+- i made a bunch of mistakes
+- idk this feels so odd
+- im going to lock in on the other project and come back to ts
